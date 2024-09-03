@@ -11,12 +11,36 @@
         "points": 1
       },
       {
-        "name": "Test 1",
+        "name": "GCD Test 1",
         "setup": "",
         "run": "lake test -- test1",
         "input" : "",
         "timeout": 5,
         "points": 1
+      },
+      {
+        "name": "GCD Test 2",
+        "setup": "",
+        "run": "lake test -- test2",
+        "input" : "",
+        "timeout": 5,
+        "points": 1
+      },
+      {
+	"name": "GCD Test 3",
+	"setup": "",
+	"run": "lake test -- test3",
+	"input" : "",
+	"timeout": 5,
+	"points": 1
+      },
+      {
+	"name": "GCD Test 4",
+	"setup": "",
+	"run": "lake test -- test4",
+	"input" : "",
+	"timeout": 5,
+	"points": 1
       }
     ]
   }

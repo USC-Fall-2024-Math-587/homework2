@@ -1,5 +1,5 @@
 import Hw
 
-/-- info: "hi" -/
+/-- info: 17 -/
 #guard_msgs in
-#eval "hi"
+#eval gcd 527 1258
